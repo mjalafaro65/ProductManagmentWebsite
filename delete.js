@@ -26,7 +26,7 @@ $(document).ready( () => {
 
 
 
-    //create page
+    //create page validation
     $("#create_from").submit( event => {
         let isValid=true;
 
