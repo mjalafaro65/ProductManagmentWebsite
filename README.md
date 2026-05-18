@@ -1,8 +1,7 @@
 # IT202-mja65-Project
 
 Overview
-This is a PHP-based web application for managing products and shipping operations. It's a project management system designed for inventory and logistics coordination, likely built as an academic IT project (IT202 course).
-
+This is a PHP-based web application for managing products and shipping operations. It's a project management system designed for inventory and logistics coordination.
 Key Features
 Core Functionality
 User Authentication
